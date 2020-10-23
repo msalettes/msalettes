@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Societe Generale as A Technical lead Fullstack JS
 - 🌱 I’m currently learning NextJS and Gatsby
 - 💬 Ask me about React JS , NestJS, GraphQL, NodeJS, TDD, DDD
-
+- 📫 How to reach me: 
 <a href="https://twitter.com/msalettes">
   <img align="left" alt="msalettes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,7 +13,7 @@
   <img align="left" alt="msalettes LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
+<br>
 **Languages and Tools:**  
 
 ---
