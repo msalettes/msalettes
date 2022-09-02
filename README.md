@@ -4,9 +4,8 @@
 <!--
 **msalettes/msalettes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on Societe Generale as a Technical lead Fullstack JS
-- 🌱 I’m currently learning NextJS and Gatsby
-- 💬 Ask me about React JS , NestJS, GraphQL, NodeJS, TDD, DDD
+- 🔭 I’m currently working for Mirakl as a Senior software engineer JS
+- 💬 Ask me about React JS , NestJS, GraphQL, NodeJS, TDD, DDD, Nx, CSS
 - 📫 How to reach me: 
 <a href="https://twitter.com/msalettes"><img alt="msalettes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;<a href="https://www.linkedin.com/in/msalettes/"><img alt="msalettes LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
